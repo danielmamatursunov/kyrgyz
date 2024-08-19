@@ -1,0 +1,1 @@
+let kyrgyz = document.querySelector(".kyrgyz")
